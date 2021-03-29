@@ -1,0 +1,7 @@
+.imgBox {
+  display: inline-block;
+}
+.imgBox > button {
+  margin-left: 20px;
+  margin-top: 188px;
+}
